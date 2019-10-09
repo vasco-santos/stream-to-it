@@ -18,6 +18,8 @@
   "author": "Alan Shaw",
   "license": "MIT",
   "dependencies": {
+    "abort-controller": "^3.0.0",
+    "abortable-iterator": "^2.1.0",
     "get-iterator": "^1.0.2",
     "p-defer": "^3.0.0"
   },
